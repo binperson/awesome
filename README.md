@@ -4,6 +4,7 @@
 
 * [Alibaba](https://github.com/alibaba) | Alibaba Open Source
 * [Google](https://github.com/google) | opensource google
+* [ElemeFE](https://github.com/ElemeFE) | 饿了么前端
 
 #### :book: book
 
@@ -32,6 +33,11 @@
 #### :book: practice
 
 * [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) | Python 练习册，每天一个小程序
+
+#### :bookmark: library
+
+* [lodash](https://github.com/lodash/lodash) | A modern JavaScript utility library delivering modularity, performance, & extras.
+* [ramda](https://github.com/ramda/ramda) | Practical functional Javascript
 
 #### :clap: people
 
