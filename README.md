@@ -5,19 +5,25 @@
 
 #### :closed_book: webpack
 
-* [webpack](https://github.com/webpack/webpack)
+* [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends.
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) | 一切webpack的好文章好工具
 
+#### :closed_book: company
 
-#### :closed_book: vue
+* [Alibaba](https://github.com/alibaba) | Alibaba Open Source
+* [Google](https://github.com/google) | https://opensource.google.com
+
+#### :book: vue
 
 * [vue](https://github.com/vuejs/vue)
 * [awesome-vue](https://github.com/vuejs/awesome-vue)
 
-#### :closed_book: wechat weapp
+#### :book: wechat weapp
 
 * [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+* [wxDraw](https://github.com/bobiscool/wxDraw) | 微信小程序2d动画绘制库
 
-#### :closed_book: machine learning
+#### :book: machine learning
 
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+
