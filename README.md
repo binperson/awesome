@@ -1,7 +1,7 @@
 # :mortar_board: 搜罗一切酷酷的东西
 #### :closed_book: book
 
-* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 免费的计算机编程类中文书籍
 
 #### :closed_book: webpack
 
@@ -11,19 +11,19 @@
 #### :closed_book: company
 
 * [Alibaba](https://github.com/alibaba) | Alibaba Open Source
-* [Google](https://github.com/google) | https://opensource.google.com
+* [Google](https://github.com/google) | opensource google
 
 #### :book: vue
 
-* [vue](https://github.com/vuejs/vue)
+* [vue](https://github.com/vuejs/vue) | A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [awesome-vue](https://github.com/vuejs/awesome-vue)
 
 #### :book: wechat weapp
 
-* [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp)
+* [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) | A curated list of awesome things related to Vue.js
 * [wxDraw](https://github.com/bobiscool/wxDraw) | 微信小程序2d动画绘制库
 
 #### :book: machine learning
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software.
 
