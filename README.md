@@ -5,11 +5,11 @@
 * [Alibaba](https://github.com/alibaba) | Alibaba Open Source
 * [Google](https://github.com/google) | opensource google
 
-#### :closed_book: book
+#### :closed: book
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 免费的计算机编程类中文书籍
 
-#### :closed_book: webpack
+#### :closed: webpack
 
 * [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends.
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) | 一切webpack的好文章好工具
@@ -29,3 +29,10 @@
 
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software.
 
+#### :book: practice
+
+* [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code) | Python 练习册，每天一个小程序
+
+#### :clap: people
+
+* [liangklfangl](https://github.com/liangklfangl) | webpack 源码分析
