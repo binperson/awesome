@@ -13,6 +13,9 @@
 #### :book: book
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 免费的计算机编程类中文书籍
+* [Single-Page-App-Break](https://github.com/island205/Single-Page-App-Break) | 单页应用开发权威指南
+* [HelloSea.js](https://github.com/island205/HelloSea.js) | 专注Sea.js，深入浅出分析Sea.js模块机制
+* [react-native-lesson](https://github.com/vczero/react-native-lesson) | React-Native入门指南
 
 #### :book: webpack
 
