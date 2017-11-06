@@ -16,6 +16,7 @@
 * [Single-Page-App-Break](https://github.com/island205/Single-Page-App-Break) | 单页应用开发权威指南
 * [HelloSea.js](https://github.com/island205/HelloSea.js) | 专注Sea.js，深入浅出分析Sea.js模块机制
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) | React-Native入门指南
+* [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) | Create React apps using Kotlin with no build configuration
 
 #### :book: webpack
 
@@ -27,6 +28,10 @@
 
 * [vue](https://github.com/vuejs/vue) | A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of awesome things related to Vue.js
+
+### :book: react
+
+* [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 开箱即用的中台前端/设计解决方案。
 
 #### :book: wechat weapp
 
@@ -51,7 +56,11 @@
 * [ramda](https://github.com/ramda/ramda) | Practical functional Javascript
 * [mongoose](https://github.com/Automattic/mongoose) | MongoDB object modeling designed to work in an asynchronous environment. 
 
-#### :heart: 
+#### :bug: Interview
+
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions#general-questions) | A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
+#### :heart: 有点意思
 
 * [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐nodejs api
 * [gopng](https://github.com/AlloyTeam/gopng) | a HTML5 css sprite generator with cool feature
