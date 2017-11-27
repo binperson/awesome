@@ -13,6 +13,10 @@
 * [QingCloud Appcenter](https://github.com/QingCloudAppcenter) | 青云
 * [shadowsocks](https://github.com/shadowsocks) | shadowsocks
 * [eleme](https://github.com/eleme) | eleme
+* [jobbole](https://github.com/jobbole) | 伯乐在线
+* [THX](https://github.com/thx) | 阿里妈妈 前端团队出品
+* [Lavas](https://github.com/lavas-project) | 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题
+* [Webot](https://github.com/node-webot) | Webot
 
 #### :book: book
 
@@ -22,18 +26,21 @@
 * [HelloSea.js](https://github.com/island205/HelloSea.js) | 专注Sea.js，深入浅出分析Sea.js模块机制
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) | React-Native入门指南
 * [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) | Create React apps using Kotlin with no build configuration
+* [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架
 
 #### :book: webpack
 
 * [webpack](https://github.com/webpack/webpack) | A bundler for javascript and friends.
 * [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) | A CLI dashboard for webpack dev server
 * [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) | 一切webpack的好文章好工具
+* [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) | Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
 
 #### :book: vue
 
 * [vue](https://github.com/vuejs/vue) | A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of awesome things related to Vue.js
+* [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | vue2.0 admin / a management system template
 
 ### :book: react
 
@@ -83,3 +90,4 @@
 * [js-code-to-svg-flowchart](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart) | js2flowchart - a visualization library to convert any JavaScript code into beautiful SVG flowchart. Learn other’s code. Design your code. Refactor code. Document code. Explain code.
 * [native-promise-only](https://github.com/getify/native-promise-only) | A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
 * [animating-resume](https://github.com/jirengu-inc/animating-resume) | 一个会动的简历
+* [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | The perfect Front-End Checklist for modern websites and meticulous developers
