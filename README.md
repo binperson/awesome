@@ -2,11 +2,13 @@
 
 #### :closed_book: Team
 
+* [facebook](https://github.com/facebook) | Facebook
 * [Alibaba](https://github.com/alibaba) | Alibaba Open Source
 * [Google](https://github.com/google) | opensource google
 * [ElemeFE](https://github.com/ElemeFE) | 饿了么前端
 * [ecomfe](https://github.com/ecomfe) | Baidu EFE team
 * [AlloyTeam](https://github.com/AlloyTeam) | 腾讯 AlloyTeam
+* [75team](https://github.com/75team) | 奇舞团
 * [pug](https://github.com/pugjs) | pugjs
 * [Koa.js](https://github.com/koajs) | Next generation web framework for Node.js
 * [youzan](https://github.com/youzan/) | 有赞
@@ -17,6 +19,7 @@
 * [THX](https://github.com/thx) | 阿里妈妈 前端团队出品
 * [Lavas](https://github.com/lavas-project) | 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题
 * [Webot](https://github.com/node-webot) | Webot
+* [wangdoc](https://github.com/wangdoc) | by ruanyf
 
 #### :book: book
 
@@ -27,6 +30,10 @@
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) | React-Native入门指南
 * [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) | Create React apps using Kotlin with no build configuration
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架
+
+#### :book: three
+
+* [react-three-renderer](https://github.com/toxicFork/react-three-renderer) | Render into a three.js canvas using React.
 
 #### :book: webpack
 
