@@ -33,7 +33,10 @@
 
 #### :book: three
 
+* [three.js](https://github.com/mrdoob/three.js) | JavaScript 3D library.
+* [stats.js](https://github.com/mrdoob/stats.js) | JavaScript Performance Monitor
 * [react-three-renderer](https://github.com/toxicFork/react-three-renderer) | Render into a three.js canvas using React.
+* [dat.gui](https://github.com/dataarts/dat.gui) | dat.gui is a lightweight controller library for JavaScript.
 
 #### :book: webpack
 
