@@ -37,6 +37,8 @@
 * [stats.js](https://github.com/mrdoob/stats.js) | JavaScript Performance Monitor
 * [react-three-renderer](https://github.com/toxicFork/react-three-renderer) | Render into a three.js canvas using React.
 * [dat.gui](https://github.com/dataarts/dat.gui) | dat.gui is a lightweight controller library for JavaScript.
+* [ThreeCSG](https://github.com/chandlerprall/ThreeCSG) | CSG plugin for Three.js
+* [tween.js](https://github.com/tweenjs/tween.js) | Javascript tweening engine
 
 #### :book: webpack
 
