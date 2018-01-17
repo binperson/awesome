@@ -72,6 +72,7 @@
 * [zanui-weapp](https://github.com/youzan/zanui-weapp) | 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞
 * [minui](https://github.com/meili/minui) | 基于规范的小程序 UI 组件库，基于自定义标签组件，简洁、易用、工具化
 * [wepy](https://github.com/Tencent/wepy) | 小程序组件化开发框架
+* [wux](https://github.com/skyvow/wux) | wux - 微信小程序自定义组件（对话框、指示器、五星评分...）
 
 #### :book: machine learning
 
