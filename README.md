@@ -20,6 +20,7 @@
 * [Lavas](https://github.com/lavas-project) | 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题
 * [Webot](https://github.com/node-webot) | Webot
 * [wangdoc](https://github.com/wangdoc) | by ruanyf
+* [Electron](https://github.com/electron/) | Build cross platform desktop apps with JavaScript, HTML, and CSS
 
 #### :book: book
 
@@ -39,6 +40,11 @@
 * [dat.gui](https://github.com/dataarts/dat.gui) | dat.gui is a lightweight controller library for JavaScript.
 * [ThreeCSG](https://github.com/chandlerprall/ThreeCSG) | CSG plugin for Three.js
 * [tween.js](https://github.com/tweenjs/tween.js) | Javascript tweening engine
+* [three.js.sourcecode](https://github.com/omni360/three.js.sourcecode) | three.js 源码注释
+
+#### :book: 区块链
+
+* [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) | Node.js区块链开发
 
 #### :book: webpack
 
@@ -53,6 +59,7 @@
 * [vue](https://github.com/vuejs/vue) | A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of awesome things related to Vue.js
 * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | vue2.0 admin / a management system template
+* [vue2.0-source](https://github.com/liutao/vue2.0-source) | vue源码分析 -- 基于 2.2.6版本
 
 ### :book: react
 
@@ -64,10 +71,16 @@
 * [wxDraw](https://github.com/bobiscool/wxDraw) | 微信小程序2d动画绘制库
 * [zanui-weapp](https://github.com/youzan/zanui-weapp) | 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞
 * [minui](https://github.com/meili/minui) | 基于规范的小程序 UI 组件库，基于自定义标签组件，简洁、易用、工具化
+* [wepy](https://github.com/Tencent/wepy) | 小程序组件化开发框架
 
 #### :book: machine learning
 
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | A curated list of awesome Machine Learning frameworks, libraries and software.
+
+#### :book: go
+
+* [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software
+* [go-study-index](https://github.com/Unknwon/go-study-index) | Go 语言学习资料索引
 
 #### :book: practice
 
@@ -103,3 +116,4 @@
 * [native-promise-only](https://github.com/getify/native-promise-only) | A polyfill for native ES6 Promises as close as possible (no extensions) to the strict spec definitions.
 * [animating-resume](https://github.com/jirengu-inc/animating-resume) | 一个会动的简历
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | The perfect Front-End Checklist for modern websites and meticulous developers
+* [socket.io](https://github.com/socketio/socket.io) | Realtime application framework (Node.JS server)
