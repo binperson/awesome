@@ -1,5 +1,10 @@
 ## :mortar_board: 搜罗一切酷酷的东西
 
+#### :books: Doc
+
+* [docschina](https://github.com/docschina) | 印记中文
+* [d3](https://github.com/d3/d3/wiki) | d3 doc
+
 #### :closed_book: Team
 
 * [facebook](https://github.com/facebook) | Facebook
@@ -8,6 +13,7 @@
 * [ElemeFE](https://github.com/ElemeFE) | 饿了么前端
 * [ecomfe](https://github.com/ecomfe) | Baidu EFE team
 * [AlloyTeam](https://github.com/AlloyTeam) | 腾讯 AlloyTeam
+* [jdf](https://github.com/jdf2e) | 京东前端
 * [75team](https://github.com/75team) | 奇舞团
 * [pug](https://github.com/pugjs) | pugjs
 * [Koa.js](https://github.com/koajs) | Next generation web framework for Node.js
