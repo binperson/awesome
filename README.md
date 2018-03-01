@@ -27,6 +27,7 @@
 * [Webot](https://github.com/node-webot) | Webot
 * [wangdoc](https://github.com/wangdoc) | by ruanyf
 * [Electron](https://github.com/electron/) | Build cross platform desktop apps with JavaScript, HTML, and CSS
+* [egg](https://github.com/eggjs) | A web framework's framework for Node.js
 
 #### :book: book
 
