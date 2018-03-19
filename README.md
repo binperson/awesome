@@ -38,6 +38,7 @@
 * [react-native-lesson](https://github.com/vczero/react-native-lesson) | React-Native入门指南
 * [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) | Create React apps using Kotlin with no build configuration
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架
+* [PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN) | 第一本 PWA 中文书 http://sangka-z.com/PWA-Book-CN/
 
 #### :book: three
 
