@@ -29,6 +29,16 @@
 * [Electron](https://github.com/electron/) | Build cross platform desktop apps with JavaScript, HTML, and CSS
 * [egg](https://github.com/eggjs) | A web framework's framework for Node.js
 
+#### :book: Go
+
+* [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 《Go语言高级编程》开源免费图书(开发中...)
+* [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) | 《Go 编程基础》
+* [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+#### :book: 区块链
+
+* [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) | Node.js区块链开发
+* [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
+* [blockchain](https://github.com/LiuBoyu/blockchain) | 区块链 - 中文资源
 #### :book: book
 
 * [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 免费的计算机编程类中文书籍
@@ -49,10 +59,6 @@
 * [ThreeCSG](https://github.com/chandlerprall/ThreeCSG) | CSG plugin for Three.js
 * [tween.js](https://github.com/tweenjs/tween.js) | Javascript tweening engine
 * [three.js.sourcecode](https://github.com/omni360/three.js.sourcecode) | three.js 源码注释
-
-#### :book: 区块链
-
-* [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) | Node.js区块链开发
 
 #### :book: webpack
 
