@@ -34,6 +34,9 @@
 * [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 《Go语言高级编程》开源免费图书(开发中...)
 * [go-fundamental-programming](https://github.com/Unknwon/go-fundamental-programming) | 《Go 编程基础》
 * [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) | 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+* [build-web-application-with-golang](com/astaxie/build-web-application-with-golang/blob/master/zh/preface.md) | A golang ebook intro how to build a web with golang
+* [go-best-practice](https://github.com/astaxie/go-best-practice) | Trying to complete over 100 projects in various categories in golang.
+
 #### :book: 区块链
 
 * [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) | Node.js区块链开发
