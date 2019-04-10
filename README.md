@@ -1,6 +1,7 @@
 ## :mortar_board: 搜罗一切酷酷的东西
 
-
+#### :books: collect
+ * [university](https://github.com/binperson/awesome/blob/master/university.md) | 大学课程
 #### :books: Doc
 
 * [docschina](https://github.com/docschina) | 印记中文
