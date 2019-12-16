@@ -2,11 +2,7 @@
 
 #### :books: collect
  * [university](https://github.com/binperson/awesome/blob/master/university.md) | 大学课程
-#### :books: Doc
-
-* [docschina](https://github.com/docschina) | 印记中文
-* [d3](https://github.com/d3/d3/wiki) | d3 doc
-* [mock](http://mockjs.com/) | mock doc
+#### :books: [Doc](https://github.com/binperson/awesome/blob/master/doc.md)
 
 #### :closed_book: project
 
