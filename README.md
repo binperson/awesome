@@ -81,9 +81,9 @@
 * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | vue2.0 admin / a management system template
 * [vue2.0-source](https://github.com/liutao/vue2.0-source) | vue源码分析 -- 基于 2.2.6版本
 
-### :book: react
+### :book: [react](https://github.com/binperson/awesome/blob/master/react.md)
 
-* [ant-design-pro](https://github.com/ant-design/ant-design-pro) | 开箱即用的中台前端/设计解决方案。
+
 
 #### :book: wechat weapp
 
