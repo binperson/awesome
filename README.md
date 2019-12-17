@@ -124,6 +124,7 @@
 
 #### :heart: 有点意思
 
+* [emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) | A one pager for emojis on Campfire and GitHub
 * [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐nodejs api
 * [gopng](https://github.com/AlloyTeam/gopng) | a HTML5 css sprite generator with cool feature
 * [lie](https://github.com/calvinmetcalf/lie) | A basic but performant promise implementation.
