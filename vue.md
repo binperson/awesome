@@ -9,3 +9,5 @@
 
 
 * [vant-demo](https://github.com/youzan/vant-demo) | Collection of vant demos. https://youzan.github.io/vant-demo ![Github stars](https://img.shields.io/github/stars/youzan/vant-demo.svg)
+
+* [vivo-shop](https://github.com/Mynameisfwk/vivo-shop) | 基于vue2.0实现的vivo移动端商城(vue+vuex-ruoter+vue-axios+webpack) ![Github stars](https://img.shields.io/github/stars/Mynameisfwk/vivo-shop.svg)
