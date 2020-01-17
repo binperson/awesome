@@ -6,3 +6,4 @@
 * [create-react-app](https://cra.docschina.org/docs/getting-started) | create-react-app doc
 * [yarn](https://yarnpkg.com/zh-Hans/) | yarn doc
 * [redux](https://www.redux.org.cn/) | Redux 中文文档
+* [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | TypeScript 入门教程 https://ts.xcatliu.com/ ![Github stars](https://img.shields.io/github/stars/xcatliu/typescript-tutorial.svg)
