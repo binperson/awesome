@@ -1,4 +1,4 @@
-#### :books: Doc
+### :books: Doc
 
 * [docschina](https://github.com/docschina) | 印记中文
 * [d3](https://github.com/d3/d3/wiki) | d3 doc
@@ -8,7 +8,7 @@
 * [redux](https://www.redux.org.cn/) | Redux 中文文档
 * [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) | TypeScript 入门教程 https://ts.xcatliu.com/ ![Github stars](https://img.shields.io/github/stars/xcatliu/typescript-tutorial.svg)
 
-##### 开放平台文档
+#### 开放平台文档
 
 钉钉开放平台
 
