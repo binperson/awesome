@@ -2,7 +2,7 @@
 
 #### :books: collect
  * [university](https://github.com/binperson/awesome/blob/master/university.md) | 大学课程
-#### :books: [Doc](https://github.com/binperson/awesome/blob/master/doc.md)
+
 
 #### :closed_book: project
 
@@ -36,6 +36,9 @@
 * [Ant Design Team](https://github.com/ant-design/ant-design/) | Ant Design Team 
 * [hiloteam](https://github.com/hiloteam) | hiloteam
 
+#### :books: [Doc](https://github.com/binperson/awesome/blob/master/doc.md) 
+[three](./threejs.md) 
+[book](./book.md)
 
 #### :book: Go
 
@@ -50,18 +53,7 @@
 * [bitcoin-on-nodejs](https://github.com/imfly/bitcoin-on-nodejs) | Node.js区块链开发
 * [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) | 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
 * [blockchain](https://github.com/LiuBoyu/blockchain) | 区块链 - 中文资源
-#### :book: book
 
-* [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 免费的计算机编程类中文书籍
-* [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md) | Freely available programming books
-* [Single-Page-App-Break](https://github.com/island205/Single-Page-App-Break) | 单页应用开发权威指南
-* [HelloSea.js](https://github.com/island205/HelloSea.js) | 专注Sea.js，深入浅出分析Sea.js模块机制
-* [react-native-lesson](https://github.com/vczero/react-native-lesson) | React-Native入门指南
-* [rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) | Create React apps using Kotlin with no build configuration
-* [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架
-* [PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN) | 第一本 PWA 中文书 http://sangka-z.com/PWA-Book-CN/
-* [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) | Frontend Tech List for Developers https://www.alienzhou.com/projects/frontend-tech-list/
-#### :book: [three](./threejs.md)
 
 
 #### :book: webpack
