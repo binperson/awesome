@@ -6,4 +6,4 @@
 
 ##### :dango: taro example
  
- * [taro-music](https://github.com/lsqy/taro-music) | 基于taro + taro-ui + redux + typescript 开发的网易云音乐小程序（不定时更新）
+ * [taro-music](https://github.com/lsqy/taro-music) | 基于taro + taro-ui + redux + typescript 开发的网易云音乐小程序（不定时更新） ![Github stars](https://img.shields.io/github/stars/lsqy/taro-music.svg)
