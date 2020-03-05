@@ -36,7 +36,8 @@
 * [Ant Design Team](https://github.com/ant-design/ant-design/) | Ant Design Team 
 * [hiloteam](https://github.com/hiloteam) | hiloteam
 
-#### :books: [Doc](https://github.com/binperson/awesome/blob/master/doc.md) 
+#### :books: more
+[Doc](https://github.com/binperson/awesome/blob/master/doc.md) 
 [three](./threejs.md) 
 [book](./book.md)
 
