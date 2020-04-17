@@ -36,10 +36,6 @@
 * [Ant Design Team](https://github.com/ant-design/ant-design/) | Ant Design Team 
 * [hiloteam](https://github.com/hiloteam) | hiloteam
 
-#### :books: more
-[Doc](https://github.com/binperson/awesome/blob/master/doc.md) 
-[three](./threejs.md) 
-[book](./book.md)
 
 #### :book: Go
 
@@ -71,9 +67,6 @@
 * [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of awesome things related to Vue.js
 * [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | vue2.0 admin / a management system template
 * [vue2.0-source](https://github.com/liutao/vue2.0-source) | vue源码分析 -- 基于 2.2.6版本
-
-### :book: [react](https://github.com/binperson/awesome/blob/master/react.md)
-
 
 
 #### :book: wechat weapp
@@ -130,3 +123,10 @@
 * [animating-resume](https://github.com/jirengu-inc/animating-resume) | 一个会动的简历
 * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) | The perfect Front-End Checklist for modern websites and meticulous developers
 * [socket.io](https://github.com/socketio/socket.io) | Realtime application framework (Node.JS server)
+
+
+#### :books: more
+[Doc](https://github.com/binperson/awesome/blob/master/doc.md) 
+[three](./threejs.md) 
+[book](./book.md)
+[react](https://github.com/binperson/awesome/blob/master/react.md)
