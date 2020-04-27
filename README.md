@@ -61,14 +61,6 @@
 * [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer) | Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
 
-#### :book: vue
-
-* [vue](https://github.com/vuejs/vue) | A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-* [awesome-vue](https://github.com/vuejs/awesome-vue) | A curated list of awesome things related to Vue.js
-* [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) | vue2.0 admin / a management system template
-* [vue2.0-source](https://github.com/liutao/vue2.0-source) | vue源码分析 -- 基于 2.2.6版本
-
-
 #### :book: wechat weapp
 
 * [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) | A curated list of awesome things related to Vue.js
