@@ -35,6 +35,7 @@
 * [egg](https://github.com/eggjs) | A web framework's framework for Node.js
 * [Ant Design Team](https://github.com/ant-design/ant-design/) | Ant Design Team 
 * [hiloteam](https://github.com/hiloteam) | hiloteam
+* [TencentCloudBase](https://github.com/TencentCloudBase) | TencentCloudBase
 
 
 #### :book: Go
