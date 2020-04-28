@@ -125,4 +125,6 @@
 **[react](https://github.com/binperson/awesome/blob/master/react.md)**
 **[micro-service](https://github.com/binperson/awesome/blob/master/micro-service.md)**
 **[vue](https://github.com/binperson/awesome/blob/master/vue.md)**
+**[debug](https://github.com/binperson/awesome/blob/master/debug.md)**
+
 
