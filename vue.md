@@ -19,4 +19,6 @@
 
 * [vue-cli4-config](https://github.com/staven630/vue-cli4-config) | vue-cli4配置vue.config.js持续更新 https://staven630.github.io/vue-cli4-config ![Github stars](https://img.shields.io/github/stars/staven630/vue-cli4-config.svg)
 
-* [vue2.0-source](https://github.com/liutao/vue2.0-source) | vue源码分析 -- 基于 2.2.6版本 ![Github stars](https://img.shields.io/github/stars/liutao/vue2.0-source)
+* [vue2.0-source](https://github.com/liutao/vue2.0-source) | vue源码分析 -- 基于 2.2.6版本 ![Github stars](https://img.shields.io/github/stars/liutao/vue2.0-source.svg)
+
+* [vuepress](https://github.com/vuejs/vuepress) | 📝 Minimalistic Vue-powered static site generator ![Github stars](https://img.shields.io/github/stars/vuejs/vuepress.svg)
