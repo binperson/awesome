@@ -13,3 +13,5 @@
  * [mp-colorui](https://github.com/yinLiangDream/mp-colorui) | MP-COLORUI 是基于 Taro框架的组件库 ![Github stars](https://img.shields.io/github/stars/yinLiangDream/mp-colorui.svg)
 
 * [Taro-navigation-bar](https://github.com/lingxiaoyi/Taro-navigation-bar) | 微信小程序自定义导航栏组件,navigation,完美适配全部手机 ![Github stars](https://img.shields.io/github/stars/lingxiaoyi/Taro-navigation-bar.svg)
+
+* [Gitter](https://github.com/huangjianke/Gitter) | Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端 ![Github stars](https://img.shields.io/github/stars/huangjianke/Gitter)
