@@ -17,6 +17,12 @@
 
 * [react-lego](https://github.com/peter-mouland/react-lego) | React-lego : incrementally add more cool stuff to your react app ![Github stars](https://img.shields.io/github/stars/peter-mouland/react-lego.svg)
 
+* [react-typescript-cheatsheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet) | Cheatsheets for experienced React developers getting started with TypeScript ![Github stars](https://img.shields.io/github/stars/typescript-cheatsheets/react-typescript-cheatsheet.svg)
+
+* [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) | A starter template for TypeScript and React with a detailed README describing how to use the two together. ![Github stars](https://img.shields.io/github/stars/microsoft/TypeScript-React-Starter.svg)
+
+* [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) | The complete guide to static typing in "React & Redux" apps using TypeScript ![Github stars](https://img.shields.io/github/stars/piotrwitek/react-redux-typescript-guide.svg)
+
 
 
 ##### :dango: react-router
