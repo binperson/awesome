@@ -30,3 +30,6 @@
 * [redux](https://github.com/reduxjs/redux) | Predictable state container for JavaScript apps ![Github stars](https://img.shields.io/github/stars/reduxjs/redux.svg)
   * [examples]https://github.com/reduxjs/redux/tree/master/examples/todos
 
+##### :dango: template
+
+* [cra-template-redux-typescript](https://github.com/reduxjs/cra-template-redux-typescript) | The official Redux+TS template for Create React App ![Github stars](https://img.shields.io/github/stars/reduxjs/cra-template-redux-typescript)
