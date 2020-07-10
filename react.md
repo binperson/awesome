@@ -15,6 +15,10 @@
 
 * [react-admin](https://github.com/react-better/react-admin) | ✨ react-admin system solution : react 后台管理系统解决方案 ![Github stars](https://img.shields.io/github/stars/react-better/react-admin.svg)
 
+* [react-lego](https://github.com/peter-mouland/react-lego) | React-lego : incrementally add more cool stuff to your react app ![Github stars](https://img.shields.io/github/stars/peter-mouland/react-lego.svg)
+
+
+
 ##### :dango: react-router
 
 * [react-router](https://github.com/ReactTraining/react-router) | Declarative routing for React ![Github stars](https://img.shields.io/github/stars/ReactTraining/react-router.svg)
