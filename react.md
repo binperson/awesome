@@ -11,8 +11,14 @@
 
 * [react](https://github.com/duxianwei520/react) | React+webpack+redux+ant design+axios+less全家桶后台管理框架 ![Github stars](https://img.shields.io/github/stars/duxianwei520/react.svg)
 
-* [react-router](https://github.com/ReactTraining/react-router) | Declarative routing for React ![Github stars](https://img.shields.io/github/stars/ReactTraining/react-router.svg)
-
 * [storybook](https://github.com/storybookjs/storybook) | 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more! ![Github stars](https://img.shields.io/github/stars/storybookjs/storybook.svg)
 
 * [react-admin](https://github.com/react-better/react-admin) | ✨ react-admin system solution : react 后台管理系统解决方案 ![Github stars](https://img.shields.io/github/stars/react-better/react-admin.svg)
+
+##### :dango: react-router
+
+* [react-router](https://github.com/ReactTraining/react-router) | Declarative routing for React ![Github stars](https://img.shields.io/github/stars/ReactTraining/react-router.svg)
+
+##### :dango: redux
+
+* [redux-tutorial](https://github.com/happypoulp/redux-tutorial) | Learn how to use redux step by step ![Github stars](https://img.shields.io/github/stars/happypoulp/redux-tutorial.svg)
