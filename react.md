@@ -26,3 +26,7 @@
 ##### :dango: redux
 
 * [redux-tutorial](https://github.com/happypoulp/redux-tutorial) | Learn how to use redux step by step ![Github stars](https://img.shields.io/github/stars/happypoulp/redux-tutorial.svg)
+
+* [redux](https://github.com/reduxjs/redux) | Predictable state container for JavaScript apps ![Github stars](https://img.shields.io/github/stars/reduxjs/redux.svg)
+  * [examples]https://github.com/reduxjs/redux/tree/master/examples/todos
+
