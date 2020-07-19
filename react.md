@@ -23,6 +23,8 @@
 
 * [react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) | The complete guide to static typing in "React & Redux" apps using TypeScript ![Github stars](https://img.shields.io/github/stars/piotrwitek/react-redux-typescript-guide.svg)
 
+* [learning-react](https://github.com/MoonHighway/learning-react) | The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media ![Github stars](https://img.shields.io/github/stars/MoonHighway/learning-react.svg)
+
 
 
 ##### :dango: react-router
