@@ -22,6 +22,7 @@
 * [Google](https://github.com/google) | opensource google
 * [ElemeFE](https://github.com/ElemeFE) | 饿了么前端
 * [ecomfe](https://github.com/ecomfe) | Baidu EFE team
+* [Baidu](https://github.com/baidu) | Baidu Open Source Projects
 * [AlloyTeam](https://github.com/AlloyTeam) | 腾讯 AlloyTeam
 * [jdf](https://github.com/jdf2e) | 京东前端
 * [75team](https://github.com/75team) | 奇舞团
