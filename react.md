@@ -41,3 +41,9 @@
 ##### :dango: template
 
 * [cra-template-redux-typescript](https://github.com/reduxjs/cra-template-redux-typescript) | The official Redux+TS template for Create React App ![Github stars](https://img.shields.io/github/stars/reduxjs/cra-template-redux-typescript)
+
+##### :dango: hooks
+
+* [hooks](https://github.com/alibaba/hooks) | React Hooks Library https://ahooks.js.org/ ![Github stars](https://img.shields.io/github/stars/alibaba/hooks.svg)
+* [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 https://streamich.github.io/ ![Github stars](https://img.shields.io/github/stars/streamich/react-use.svg)
+* [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) | Awesome React Hooks ![Github stars](https://img.shields.io/github/stars/rehooks/awesome-react-hooks.svg)
