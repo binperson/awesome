@@ -8,3 +8,8 @@
 * [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer) | 成为专业程序员路上用到的各种优秀资料、神器及框架 ![Github stars](https://img.shields.io/github/stanzhai/be-a-professional-programmer.svg)
 * [PWA-Book-CN](https://github.com/SangKa/PWA-Book-CN) | 第一本 PWA 中文书 http://sangka-z.com/PWA-Book-CN/ ![Github stars](https://img.shields.io/github/stanzhai/SangKa/PWA-Book-CN.svg)
 * [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list) | Frontend Tech List for Developers https://www.alienzhou.com/projects/frontend-tech-list/ ![Github stars](https://img.shields.io/github/alienzhou/frontend-tech-list.svg)
+
+
+#### :book: TS
+
+* [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-book-chinese/ ![Github stars](https://img.shields.io/github/jkchao/typescript-book-chinese.svg)
