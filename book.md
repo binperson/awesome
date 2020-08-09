@@ -13,3 +13,7 @@
 #### :book: TS
 
 * [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) | TypeScript Deep Dive 中文版 https://jkchao.github.io/typescript-book-chinese/ ![Github stars](https://img.shields.io/github/jkchao/typescript-book-chinese.svg)
+
+#### :book: OpenGL
+
+* [LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL) | Code repository of all OpenGL chapters from the book and its accompanying website https://learnopengl.com ![Github stars](https://img.shields.io/github/JoeyDeVries/LearnOpenGL.svg)
