@@ -15,3 +15,7 @@
  - jsapi https://ding-doc.dingtalk.com/doc#/dev/swk0bg
 
  - 后端api https://open-dev.dingtalk.com/apiExplorer#/?devType=isv&api=/get_jsapi_ticket
+
+opengl文档
+
+ - khronos https://www.khronos.org/
