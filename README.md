@@ -17,6 +17,7 @@
 
 #### :closed_book: Team
 
+* [antvis](https://github.com/antvis) | 蚂蚁金服 - 数据可视化
 * [facebook](https://github.com/facebook) | Facebook
 * [Alibaba](https://github.com/alibaba) | Alibaba Open Source
 * [Google](https://github.com/google) | opensource google
