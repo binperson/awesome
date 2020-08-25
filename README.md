@@ -17,6 +17,7 @@
 
 #### :closed_book: Team
 
+* [JDR Design FE](https://github.com/jdf2e) | 京东零售用户体验设计部-前端开发部
 * [antvis](https://github.com/antvis) | 蚂蚁金服 - 数据可视化
 * [facebook](https://github.com/facebook) | Facebook
 * [Alibaba](https://github.com/alibaba) | Alibaba Open Source
