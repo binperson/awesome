@@ -1,6 +1,8 @@
 
 #### :book: react
 
+* [learning-react](https://github.com/MoonHighway/learning-react) | The code samples for Learning React by Alex Banks and Eve Porcello, published by O'Reilly Media ![Github stars](https://img.shields.io/github/stars/MoonHighway/learning-react.svg)
+
 * [styled-components](https://github.com/styled-components/styled-components) | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress ![Github stars](https://img.shields.io/github/stars/styled-components/styled-components.svg)
 
 * [styled-jsx](https://github.com/zeit/styled-jsx) | Full CSS support for JSX without compromises ![Github stars](https://img.shields.io/github/stars/zeit/styled-jsx.svg)
