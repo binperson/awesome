@@ -49,3 +49,6 @@
 * [hooks](https://github.com/alibaba/hooks) | React Hooks Library https://ahooks.js.org/ ![Github stars](https://img.shields.io/github/stars/alibaba/hooks.svg)
 * [react-use](https://github.com/streamich/react-use) | React Hooks — 👍 https://streamich.github.io/ ![Github stars](https://img.shields.io/github/stars/streamich/react-use.svg)
 * [awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) | Awesome React Hooks ![Github stars](https://img.shields.io/github/stars/rehooks/awesome-react-hooks.svg)
+
+##### :dango: form
+* [react-hook-form](https://github.com/react-hook-form/react-hook-form) |  React Hooks for forms validation (Web + React Native) ![Github stars](https://img.shields.io/github/stars/react-hook-form/react-hook-form.svg)
