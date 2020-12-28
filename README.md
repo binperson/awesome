@@ -48,6 +48,7 @@
 
 * [Oasis Engine](https://github.com/oasis-engine) | Mobile-First Web Graphics Engine 🚀
 * [Hilo](https://github.com/hiloteam) | A Cross-end HTML5 Game development solution developed by Alibaba Group
+* [The Khronos Group](https://github.com/KhronosGroup) | Connecting Software to Silicon
 
 #### :book: Go
 
