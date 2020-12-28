@@ -46,6 +46,9 @@
 * [TencentCloudBase](https://github.com/TencentCloudBase) | TencentCloudBase
 * [ProtoTeam](https://github.com/ProtoTeam) | 蚂蚁集团 - 大数据部 - 数据体验技术
 
+* [Oasis Engine](https://github.com/oasis-engine) | Mobile-First Web Graphics Engine 🚀
+* [Hilo](https://github.com/hiloteam) | A Cross-end HTML5 Game development solution developed by Alibaba Group
+
 #### :book: Go
 
 * [advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | 《Go语言高级编程》开源免费图书(开发中...)
