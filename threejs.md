@@ -8,3 +8,5 @@
 * [tween.js](https://github.com/tweenjs/tween.js) | Javascript tweening engine
 * [three.js.sourcecode](https://github.com/omni360/three.js.sourcecode) | three.js 源码注释
 * [ShadowEditor](https://github.com/tengge1/ShadowEditor) | ShadowEditor
+
+* [LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN) | http://learnopengl.com 系列教程的简体中文翻译
